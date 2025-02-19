@@ -24,7 +24,7 @@ export const Puzzle = forwardRef((_, ref) => {
 
   const source = useMemo(
     () => ({
-      uri: 'https://i.pinimg.com/originals/f3/ec/e5/f3ece5f7cfd3e8c3a08fbd71ca7fab6a.jpg',
+      uri: 'https://raw.githubusercontent.com/jhonbergmann/picture-puzzle/refs/heads/main/src/assets/image-puzzle.jpg',
     }),
     [],
   )
